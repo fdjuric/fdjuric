@@ -6,3 +6,4 @@
 
 https://github-readme-streak-stats.herokuapp.com/?user=fdjuric
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fdjuric&theme=dark&background=000000)](https://git.io/streak-stats)
